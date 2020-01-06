@@ -12,7 +12,7 @@ namespace HelloWorldCPW212
         /// Comment
         /// </summary>
         /// <param name="args"></param>
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Welcome!");
 
