@@ -14,7 +14,7 @@ namespace HelloWorldCPW212
         /// <param name="args"></param>
         static void Main()
         {
-            Console.WriteLine("Welcome!");
+            Console.WriteLine("Hello World!");
 
             Console.ReadKey();
         }
