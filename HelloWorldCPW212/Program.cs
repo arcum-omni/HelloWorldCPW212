@@ -9,7 +9,7 @@ namespace HelloWorldCPW212
     class Program
     {
         /// <summary>
-        /// Comment
+        /// This console application was written for students to learn how to use source control in Visual Studio.
         /// </summary>
         /// <param name="args"></param>
         static void Main()
